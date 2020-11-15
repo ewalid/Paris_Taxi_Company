@@ -27,7 +27,7 @@ const App = () => {
                         duration={ride.duration}
                     />
                 ))}
-          </Grid>
+            </Grid>
         </>
     );
 }
